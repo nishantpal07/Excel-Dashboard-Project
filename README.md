@@ -9,6 +9,8 @@ The Ahuja Store wants to create an annual sales report for 2022 so that,The owne
 understand their customers and grow more sales in 2023 & 2024
 
 # Dataset used
+- <a href="https://github.com/nishantpal07/Excel-Dashboard-Project/blob/main/Ahuja%20store%20file.xlsx">Ahuja_Dashboard</a>
+
 - <a href="https://github.com/nishantpal07/Excel-Dashboard-Project/blob/main/data_file.xlsx">data_set</a>
 
 # Questions (KPI)
